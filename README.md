@@ -6,4 +6,5 @@ The time period for analysis we will be using is Jan 1 2019 to Dec 31 2019. The 
 
 
 if we have portfolio both of these stock, it is not good portfolio because that has positive correlation each other. We should have negative correlation if we want to balance income.
+
 SBRA stock is more risky because of high standard deviation. On the other hand, SBRA has more annually log return than EQR so we earn much more money if we want to get this risky situation.
